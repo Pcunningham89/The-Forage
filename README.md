@@ -12,3 +12,5 @@ In the simulation, the following were focused on:
    trends to inform strategic decisions
  * Prepared a PowerPoint deck and video presentation to communicate key insights
    for the client and internal stakeholders
+
+This project was completed on September 6th 2024.
