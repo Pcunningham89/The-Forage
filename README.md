@@ -14,3 +14,6 @@ In the simulation, the following were focused on:
    for the client and internal stakeholders
 
 This project was completed on September 6th 2024.
+
+26th May 2026
+Currently on the lookout for more Forage projects. Will keep an eye out.
